@@ -370,12 +370,12 @@
 		font-size: 14px;
 		margin-right: 20px;
 	}
-.L-button span {
+	.L-button span {
     margin-right: 5px;
     padding: 10px 10px;
-    border-radius: 10px;
+    border-radius: 0px;
     color: #fff;
-    font-size: 13px;
+    font-size: 10px;
     background-color:#3981df;
 }
 
