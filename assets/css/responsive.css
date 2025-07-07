@@ -196,14 +196,15 @@
 		margin-right: 0;
 	}
 
-	.L-button span {
-    margin-right: 15px;
+		.L-button span {
+    margin-right: 10px;
     padding: 10px 10px;
     border-radius: 10px;
     color: #fff;
-    font-size: 14px;
+    font-size: 12px;
     background-color:#3981df;
 }
+
 
 }
 
