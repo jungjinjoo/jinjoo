@@ -52,7 +52,7 @@
 		padding: 10px 15px;
 	}
 
-	.navbar-custom .dropdown-menu {navbar-nav
+	.navbar-custom .dropdown-menu {
 		margin-left: 20px;
 	}
 
@@ -196,16 +196,14 @@
 		margin-right: 0;
 	}
 
-		.L-button span {
-    margin-right: 5px;
+	.L-button span {
+    margin-right: 1px;
     padding: 10px 10px;
     border-radius: 0px;
     color: #fff;
-    font-size: 10px;
+    font-size: 14px;
     background-color:#3981df;
 }
-
-
 }
 
 /* Landscape Mobile */
@@ -371,11 +369,11 @@
 		margin-right: 20px;
 	}
 	.L-button span {
-    margin-right: 5px;
+    margin-right: 1px;
     padding: 10px 10px;
     border-radius: 0px;
     color: #fff;
-    font-size: 10px;
+    font-size: 14px;
     background-color:#3981df;
 }
 
