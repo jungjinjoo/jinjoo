@@ -52,7 +52,7 @@
 		padding: 10px 15px;
 	}
 
-	.navbar-custom .dropdown-menu {
+	.navbar-custom .dropdown-menu {navbar-nav
 		margin-left: 20px;
 	}
 
@@ -374,7 +374,7 @@
     padding: 10px 10px;
     border-radius: 10px;
     color: #fff;
-    font-size: 14px;
+    font-size: 13px;
     background-color:#3981df;
 }
 
