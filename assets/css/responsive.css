@@ -202,10 +202,9 @@
     padding: 10px 10px;
     border-radius: 0px;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     background-color:#3981df;
 }
-
 }
 
 /* Landscape Mobile */
@@ -218,8 +217,8 @@
 
 	.intro p {
     color: #333333;
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 500;
+    font-size: 20px;
 }
 
 .intro-sub {
@@ -379,7 +378,6 @@
     font-size: 12px;
     background-color:#3981df;
 }
-
 
 }
 
