@@ -210,7 +210,8 @@
 /* Landscape Mobile */
 @media only screen and (min-width : 480px) and (max-width : 767px) {
 	.intro h1 {
-		font-size: 60px;
+		font-size: 55px;
+		 font-weight: 600;
 		line-height: 70px;
 	}
 
