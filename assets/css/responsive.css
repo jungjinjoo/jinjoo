@@ -465,13 +465,14 @@
 
 
 	.L-button span {
-		margin-right: 10px;
-		padding: 15px 20px;
-		border-radius: 30px;
+		margin-right: 3px;
+		padding: 10px 10px;
+		border-radius: 0px;
 		color: #fff;
-		font-size: 20px;
-		background-color: #3981df;
+		font-size: 12px;
+		background-color: #68c3a3;
 	}
+
 
 
 }
