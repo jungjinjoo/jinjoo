@@ -200,10 +200,10 @@
 /* 휴대폰화면  */
 	.L-button span {
 		margin-right: 5px;
-		padding: 5px 5px;
+		padding: 5px 8px;
 		border-radius: 0px;
 		color: #fff;
-		font-size: 12px;
+		font-size: 14px;
 		background-color: #333333;
 	}
 
