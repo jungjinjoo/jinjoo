@@ -197,13 +197,13 @@
 		font-size: 15px;
 		margin-right: 0;
 	}
-/* 휴대폰화면  */
+
+	/* 휴대폰화면  */
 	.L-button span {
-		margin-right: 2px;
-		padding: 5px 8px;
+		padding: 8px 12px;
 		border-radius: 0px;
 		color: #fff;
-		font-size: 13px;
+		font-size: 14px;
 		background-color: #333333;
 	}
 
@@ -212,12 +212,13 @@
 
 /* Landscape Mobile */
 @media only screen and (min-width : 480px) and (max-width : 767px) {
-		.intro h1 {
+	.intro h1 {
 		font-size: 55px;
 		font-weight: bold;
 		line-height: 60px;
 		color: #5a5cc7;
 	}
+
 	.intro p {
 		color: #333333;
 		font-weight: 500;
@@ -375,7 +376,6 @@
 	}
 
 	.L-button span {
-		margin-right: 5px;
 		padding: 10px 12px;
 		border-radius: 30px;
 		color: #fff;
@@ -466,7 +466,6 @@
 
 
 	.L-button span {
-		margin-right: 20px;
 		padding: 15px 20px;
 		border-radius: 30px;
 		color: #fff;
