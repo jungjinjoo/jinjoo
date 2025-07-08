@@ -8,27 +8,27 @@
 /* Extra small devices (phones, less than 768px) */
 @media (max-width : 766px) {
 	.intro h1 {
-		font-size: 40px;
-		 font-weight: 600;
-		line-height: 30px;
+		font-size: 55px;
+		font-weight: 600;
+		line-height: 70px;
 		color: #5a5cc7;
 	}
 
-	.intro h1 span{
+	.intro h1 span {
 		color: #7985f0;
 	}
 
-.intro p {
-    color: #333333;
-    font-weight: 400;
-    font-size: 16px;
-}
+	.intro p {
+		color: #333333;
+		font-weight: 400;
+		font-size: 16px;
+	}
 
-.intro-sub {
-    color: #333333;
-    font-size: 24px;
-    margin-bottom: 10px;
-}
+	.intro-sub {
+		color: #333333;
+		font-size: 24px;
+		margin-bottom: 10px;
+	}
 
 
 	.social-icons ul {
@@ -73,7 +73,7 @@
 
 
 	/*  Popup Section */
-	.popup_in{
+	.popup_in {
 		height: 80vh;
 		align-items: center;
 		align-content: space-between;
@@ -198,37 +198,39 @@
 	}
 
 	.L-button span {
-    margin-right: 1px;
-    padding: 10px 10px;
-    border-radius: 0px;
-    color: #fff;
-    font-size: 14px;
-    background-color:#3981df;
-}
+		margin-right: 10px;
+		padding: 15px 20px;
+		border-radius: 30px;
+		color: #fff;
+		font-size: 20px;
+		background-color: #3981df;
+	}
+
+
 }
 
 /* Landscape Mobile */
 @media only screen and (min-width : 480px) and (max-width : 767px) {
 	.intro h1 {
 		font-size: 55px;
-		 font-weight: 600;
+		font-weight: 600;
 		line-height: 70px;
 	}
 
 	.intro p {
-    color: #333333;
-    font-weight: 500;
-    font-size: 20px;
-}
+		color: #333333;
+		font-weight: 500;
+		font-size: 20px;
+	}
 
-.intro-sub {
-    color: #333333;
-    font-size: 24px;
-    line-height: 32px;
-    font-weight: 700;
-    text-transform: uppercase;
-    margin-bottom: 10px;
-}
+	.intro-sub {
+		color: #333333;
+		font-size: 24px;
+		line-height: 32px;
+		font-weight: 700;
+		text-transform: uppercase;
+		margin-bottom: 10px;
+	}
 
 	.social-icons ul {
 		margin-left: -5px;
@@ -370,14 +372,15 @@
 		font-size: 14px;
 		margin-right: 20px;
 	}
+
 	.L-button span {
-    margin-right: 1px;
-    padding: 10px 10px;
-    border-radius: 0px;
-    color: #fff;
-    font-size: 12px;
-    background-color:#3981df;
-}
+		margin-right: 3px;
+		padding: 10px 10px;
+		border-radius: 0px;
+		color: #fff;
+		font-size: 12px;
+		background-color: #68c3a3;
+	}
 
 }
 
@@ -458,6 +461,16 @@
 	.personal-info {
 		text-align: center;
 		padding: 0 15px;
+	}
+
+
+	.L-button span {
+		margin-right: 10px;
+		padding: 15px 20px;
+		border-radius: 30px;
+		color: #fff;
+		font-size: 20px;
+		background-color: #3981df;
 	}
 
 
