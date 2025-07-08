@@ -198,11 +198,11 @@
 	}
 
 	.L-button span {
-		margin-right: 5px;
-		padding: 5px 5px;
-		border-radius: 0px;
+		margin-right: 10px;
+		padding: 15px 20px;
+		border-radius: 30px;
 		color: #fff;
-		font-size: 12px;
+		font-size: 20px;
 		background-color: #3981df;
 	}
 
@@ -374,14 +374,13 @@
 	}
 
 	.L-button span {
-		margin-right: 5px;
-		padding: 5px 5px;
+		margin-right: 3px;
+		padding: 10px 10px;
 		border-radius: 0px;
 		color: #fff;
-		font-size: 12px;
+		font-size: 16px;
 		background-color: #3981df;
 	}
-
 
 }
 
@@ -466,15 +465,13 @@
 
 
 	.L-button span {
-		margin-right: 5px;
-		padding: 5px 5px;
-		border-radius: 0px;
+		margin-right: 20px;
+		padding: 15px 20px;
+		border-radius: 30px;
 		color: #fff;
-		font-size: 14px;
+		font-size: 18px;
 		background-color: #3981df;
 	}
-
-
 
 }
 
