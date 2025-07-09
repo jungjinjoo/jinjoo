@@ -186,7 +186,6 @@ header{
 	width: 50px;
 }
 
-
 /* 버튼 */
 .btn_1 {
 	list-style: none;
@@ -213,6 +212,6 @@ header{
 }
 
 .btn_1 li a:hover{
-	background-color: #333333;
+	background-color: #131316;
 	color: #fff;
 }
