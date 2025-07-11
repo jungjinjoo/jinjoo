@@ -185,9 +185,9 @@ jQuery(function ($) {
     // -------------------------------------------------------------
     // Fit Vids
     // -------------------------------------------------------------
-    (function () {
-        $(".video-container").fitVids();
-    }());
+    // (function () {
+    //     $(".video-container").fitVids();
+    // }());
 
 
 
@@ -218,18 +218,18 @@ jQuery(function ($) {
     // STELLAR FOR BACKGROUND SCROLLING
     // -------------------------------------------------------------
 
-    $(window).load(function () {
+    // $(window).load(function () {
 
-        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    //     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
 
-        } else {
-            $.stellar({
-                horizontalScrolling: false,
-                responsive: true
-            });
-        }
+    //     } else {
+    //         $.stellar({
+    //             horizontalScrolling: false,
+    //             responsive: true
+    //         });
+    //     }
 
-    });
+    // });
 
 
     // -------------------------------------------------------------
