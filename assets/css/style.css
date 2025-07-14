@@ -306,13 +306,12 @@ ul.list-check li::before {
 
 .section-title::after {
     content: "";
-    background: url(../../assets/images/section-divider.png) no-repeat 0 0;
-    height: 15px;
-    width: 113px;
+    height: 16px;
+    width: 150px;
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -40px;
+    bottom: -5px;
     margin: 0 auto;
 }
 
