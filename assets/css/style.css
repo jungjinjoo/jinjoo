@@ -871,7 +871,7 @@ Resume Timeline
     top: -8px;
     width: 10px;
     height: 10px;
-    background-color: #68c3a3;
+    background-color: #ac9370;
     left: 50%;
     margin-left: -5px;
     -webkit-transform: rotate(45deg);
@@ -887,7 +887,7 @@ Resume Timeline
     bottom: -8px;
     width: 10px;
     height: 10px;
-    background-color: #68c3a3;
+    background-color: #ac9370;
     left: 50%;
     margin-left: -6px;
     -webkit-transform: rotate(45deg);
@@ -904,7 +904,7 @@ Resume Timeline
     bottom: 0;
     width: 2px;
     margin-left: -2px;
-    background-color: #68c3a3;
+    background-color: #ac9370;
 }
 
 .timeline>li {
@@ -1054,7 +1054,7 @@ Resume Timeline
     }
 
     .timeline>li .timeline-content:hover {
-        background: #68c3a3;
+        background: #ac9370;
         color: #fff;
     }
 
@@ -1077,7 +1077,7 @@ Resume Timeline
     }
 
     .timeline>li .timeline-panel:hover::before {
-        border-left: 12px solid #68c3a3;
+        border-left: 12px solid #ac9370;
     }
 
     .timeline>li.timeline-inverted .timeline-panel::before {
@@ -1090,7 +1090,7 @@ Resume Timeline
     }
 
     .timeline>li.timeline-inverted .timeline-panel:hover::before {
-        border-right: 12px solid #68c3a3;
+        border-right: 12px solid #ac9370;
         border-left: 0;
     }
 
@@ -1114,7 +1114,7 @@ Resume Timeline
     }
 
     .timeline>li .timeline-panel:hover::after {
-        border-left: 12px solid #68c3a3;
+        border-left: 12px solid #ac9370;
     }
 
     .timeline>li.timeline-inverted .timeline-panel::after {
