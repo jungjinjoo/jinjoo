@@ -122,7 +122,7 @@ h2 {
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 28px;
     line-height: 24px;
 }
 
@@ -909,7 +909,7 @@ Resume Timeline
 
 .timeline>li {
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
     min-height: 50px;
 }
 
@@ -957,7 +957,7 @@ Resume Timeline
 
 .timeline>li .posted-date .month {
     font-size: 24px;
-    line-height: 22x;
+    line-height: 22px;
     font-weight: 700;
     display: block;
     padding: 10px;
