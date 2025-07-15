@@ -219,7 +219,18 @@
 		background-color: #3981df;
 	}
 
-	
+
+	.links i {
+    position: relative;
+    color: #68c3a3;
+    font-size: 32px;
+    margin: 0 13px;
+    z-index: 100;
+}
+
+.links i {
+    color: #fff;
+}
 
 }
 
