@@ -767,7 +767,7 @@ Icon for all respective meta
     position: absolute;
     bottom: -100%;
     left: 0;
-    background-color: #b49f82;
+    background-color: #ac9370;
     color: #fff;
     height: 45px;
     width: 100%;
@@ -873,7 +873,7 @@ Resume Timeline
     height: 10px;
     background-color: #68c3a3;
     left: 50%;
-    margin-left: -6px;
+    margin-left: -5px;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
@@ -903,7 +903,7 @@ Resume Timeline
     top: 0;
     bottom: 0;
     width: 2px;
-    margin-left: -1.5px;
+    margin-left: -2px;
     background-color: #68c3a3;
 }
 
