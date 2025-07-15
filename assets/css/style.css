@@ -1128,7 +1128,7 @@ Resume Timeline
     }
 
     .timeline>li.timeline-inverted .timeline-panel:hover::after {
-        border-right: 12px solid #68c3a3;
+        border-right: 12px solid #ac9370;
         border-left: 0;
     }
 
