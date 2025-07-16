@@ -568,6 +568,11 @@ ul.list-check li::before {
     z-index: -1;
 }
 
+.myphoto :hover{
+    
+}
+
+
 .biography ul {
     padding: 10px 20px 30px;
 }
@@ -879,7 +884,7 @@ Resume Timeline
     height: 10px;
     background-color: #4a90e2;
     left: 50%;
-    margin-left: -5px;
+    margin-left: -5.5px;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
