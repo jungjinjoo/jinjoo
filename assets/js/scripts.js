@@ -263,6 +263,10 @@ jQuery(function ($) {
             $('#pop04').show();
         });
 
+        $('#popup05').click(function () {
+            $('#pop05').show();
+        });
+
         $('.popup i').click(function () {
             $('.popup').hide();
         });
