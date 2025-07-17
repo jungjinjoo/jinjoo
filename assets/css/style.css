@@ -801,10 +801,10 @@ Icon for all respective meta
 }
 
 .video_h4{
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
     padding-bottom: 20px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 /* === Popup Section === */
@@ -1560,7 +1560,6 @@ Resume Timeline
 
 
 video{
-    border-radius: 20px;
     width: 100%;
 }
 
